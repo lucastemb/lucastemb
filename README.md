@@ -9,7 +9,7 @@
    <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastemb&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/></td> -->
   </tr>
 </table>
-Hello! name is Lucas, and I'm a third-year student studying Computer Science at the University of Florida
+Hello, and thank you for stopping by! My name is Lucas, and I'm a third-year student studying Computer Science at the University of Florida. I'm an aspiring software engineer with an interest in full-stack development, data science, computer graphics, and artificial intelligence. 
 
 <h2> My Favorite Tools and Languages </h2>
 <div>

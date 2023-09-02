@@ -6,7 +6,7 @@
     <!-- add empty cell here so we don't get alternating colors on the table -->
   </tr>
   <tr>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucastemb&theme=default" width=420>
+   <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucastemb&theme=default" width=420></td>
   </tr>
 </table>
 <div align="left">

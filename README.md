@@ -6,13 +6,13 @@
     <!-- add empty cell here so we don't get alternating colors on the table -->
   </tr>
   <tr>
-   <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastemb&langs_count=8&layout=compact&hide=css,latex,tex,cmake&exclude_repo=AdventOfCode" width="420"/></td> -->
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucastemb&theme=default" width=420>
   </tr>
 </table>
 <div align="left">
 Hello, and thank you for stopping by! My name is Lucas, and I'm a third-year student studying Computer Science at the University of Florida. I'm an aspiring software engineer with an interest in full-stack development, data science, computer graphics, and artificial intelligence. 
 
-<h2> My Favorite Tools and Languages </h2>
+<h2> Some of my Favorite Tools and Languages </h2>
 <div>
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

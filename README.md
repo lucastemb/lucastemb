@@ -3,7 +3,6 @@
     <td><img src="https://streak-stats.demolab.com?user=lucastemb&ring=DD6304" width="420"/> </td>
   </tr>
   <tr>
-    <!-- add empty cell here so we don't get alternating colors on the table -->
   </tr>
   <tr>
    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucastemb&theme=default" width=420></td>

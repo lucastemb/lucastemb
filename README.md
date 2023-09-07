@@ -1,6 +1,6 @@
 <table border="0" align="right">
   <tr>
-    <td><img src="https://streak-stats.demolab.com?user=lucastemb&ring=DD6304" width="420"/> </td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucastemb&theme=default" width="420"/> </td>
   </tr>
   <tr>
   </tr>

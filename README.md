@@ -18,6 +18,7 @@ Hello, and thank you for stopping by! My name is Lucas, and I'm a third-year stu
     <img src="https://skillicons.dev/icons?i=react,typescript,firebase,figma,go" />
     <img src="https://skillicons.dev/icons?i=lua,javascript,mongodb,nextjs,nodejs" />
     <img src="https://skillicons.dev/icons?i=postgres,tailwind,unity,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java" />
   </a>
 </p>
 </div>

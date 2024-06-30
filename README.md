@@ -9,7 +9,7 @@
   </tr>
 </table>
 <div align="left">
-Hello, and thank you for stopping by! My name is Lucas, and I'm a third-year student studying Computer Science at the University of Florida. I'm an aspiring software engineer with an interest in full-stack development, data science, computer graphics, and artificial intelligence. 
+Hello, and thank you for stopping by! My name is Lucas, and I'm a third-year student studying Computer Science at the University of Florida. I'm a software engineer with an interest in full-stack development, data science, computer graphics, and artificial intelligence. 
 
 <h3> Some of my Favorite Tools and Languages </h3>
 <p align="left">
